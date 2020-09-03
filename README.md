@@ -2,9 +2,9 @@
 
 ## Purpose
 
-➡️ **Its a basic Flutter application by using Http**<br/> 
-➡️ **Base Url: https://universitydatabase-4deab.firebaseio.com/ <br/> **
-➡️ **EndPoint:( /universiteler.json )**<br/>
+➡️   **Its a basic Flutter application by using Http** <br/> 
+➡️   **Base Url: https://universitydatabase-4deab.firebaseio.com/** <br/>
+➡️   **EndPoint:( /universiteler.json )**<br/>
 
 
 <br/>
